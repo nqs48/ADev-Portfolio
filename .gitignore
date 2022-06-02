@@ -2,3 +2,13 @@
 *.css.map
 *.sass.map
 *.scss.map
+
+
+#MACOS
+.DS_Store
+
+#Visual Studio
+.vscode
+
+$Images
+*.jpg
